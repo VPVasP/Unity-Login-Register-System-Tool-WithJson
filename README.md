@@ -1,6 +1,5 @@
 # Unity Login Register System with JSON
 
-Welcome to the Unity Login Register System with JSONrepository! This project provides a user authentication system for Unity games.
 
 ## About the System:
 
