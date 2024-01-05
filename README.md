@@ -3,7 +3,7 @@
 
 ## About the System:
 
-The Unity Login Register System with JSIB offers user authentication for Unity game developers. The tool includes:
+The Unity Login Register System with JSON offers user authentication for Unity game developers. The tool includes:
 
 - **Customizable Username and Password Lengths:** Set minimum and maximum lengths for usernames and passwords according to your preferences.
 - **Password Visibility Toggle:** Allow users to toggle the visibility of their password.
