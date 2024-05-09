@@ -1,17 +1,10 @@
 # Unity Login Register System with JSON
+A Unity Game Engine Login Register System With JSON. It has multiple features such as: Minimum-Maximum Username,Password Length that the unity user can put the values to their liking. Toggle to show the password. The saving logic is being handled by JSON.
+-  You can download the Unity Package and add it into your Project on Itch.io: (https://itchiovp.itch.io/unity-login-register-system-tool)
 
+![Screenshots](https://img.itch.zone/aW1hZ2UvMjQ0NDQ1My8xNDQ4MTY1Mi5wbmc=/original/uR7373.png)
+![Screenshots](https://img.itch.zone/aW1hZ2UvMjQ0NDQ1My8xNDQ4MTY1My5wbmc=/original/8s00kT.png)
+![Screenshots](https://img.itch.zone/aW1hZ2UvMjQ0NDQ1My8xNDQ4MTY1NS5wbmc=/original/ZjDF%2Br.png)
+![Screenshots](https://img.itch.zone/aW1hZ2UvMjQ0NDQ1My8xNDQ4MTY1NC5wbmc=/original/XXPLbR.png)
+  
 
-## About the System:
-
-The Unity Login Register System with JSON offers user authentication for Unity game developers. The tool includes:
-
-- **Customizable Username and Password Lengths:** Set minimum and maximum lengths for usernames and passwords according to your preferences.
-- **Password Visibility Toggle:** Allow users to toggle the visibility of their password.
-- **JSON Data Handling:** Using JSON for saving and loading the user data.
-
-## Features:
-
-- **User Registration:** Allow users to register by providing a username and password.
-- **Login Functionality:** Enable users to log using their registered credentials.
-- **Password Visibility Toggle:** Enhance user experience with an option to toggle the password visibility.
-- **JSON Data Management:** Save and load user data using JSON.
